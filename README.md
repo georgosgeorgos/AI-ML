@@ -1,1 +1,7 @@
-#ml_exercises
+# **ml_exercises**
+
+---
+
+**implementation of some classical Machine Learning algorithms**
+
+---
