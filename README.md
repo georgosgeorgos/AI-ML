@@ -1,4 +1,4 @@
-# **ml_exercises**
+# **ml_implementations**
 
 ---
 
