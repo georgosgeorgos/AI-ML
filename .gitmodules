@@ -4,3 +4,6 @@
 [submodule "AI"]
 	path = AI
 	url = https://github.com/georgosgeorgos/AI
+[submodule "ML/regression/HousePrice"]
+	path = ML/regression/HousePrice
+	url = https://github.com/georgosgeorgos/HousePrice
