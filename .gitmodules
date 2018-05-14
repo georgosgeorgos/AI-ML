@@ -1,3 +1,6 @@
 [submodule "RL"]
 	path = RL
 	url = https://github.com/georgosgeorgos/RL
+[submodule "AI"]
+	path = AI
+	url = https://github.com/georgosgeorgos/AI
