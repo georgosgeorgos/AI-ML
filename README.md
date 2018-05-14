@@ -1,7 +1,7 @@
-# **ml_implementations**
+# **AI-ML**
 
 ---
 
-**implementation of some classical Machine Learning algorithms**
+Some Artificial Intelligence & Machine Learning algorithms
 
 ---
