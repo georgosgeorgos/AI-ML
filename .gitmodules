@@ -7,3 +7,6 @@
 [submodule "ML/regression/HousePrice"]
 	path = ML/regression/HousePrice
 	url = https://github.com/georgosgeorgos/HousePrice
+[submodule "ML_applications"]
+	path = ML_applications
+	url = https://github.com/georgosgeorgos/ML_applications
